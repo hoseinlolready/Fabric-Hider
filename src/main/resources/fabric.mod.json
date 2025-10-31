@@ -7,10 +7,11 @@
   "description": "This mod hides fabric making it look like your playing vanilla! Why are you even looking at this???",
   "authors": [
     "Taylor",
-	"TheOneAndOnlyDanSan"
+	"TheOneAndOnlyDanSan",
+	"HOSEINLOL"
   ],
   "contact": {
-    "sources": "https://github.com/TheOneAndOnlyDanSan/Fabric-Hider"
+    "sources": "https://github.com/hoseinlolready/Fabric-Hider"
   },
 
   "license": "CC0-1.0",
